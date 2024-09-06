@@ -1,6 +1,4 @@
-Here’s a simple and engaging README for your PDF hosted on GitHub:
 
----
 
 # 🚀 Self-Hosting Guide for Students Using Localtunnel
 
